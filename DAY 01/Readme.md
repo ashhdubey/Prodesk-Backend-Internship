@@ -15,8 +15,8 @@
 - Java 17+
 - Spring Boot
 - REST APIs
-- Maven / Gradle
-- (Optional) MySQL / PostgreSQL
+- Maven 
+- MongoDB
 
 ---
 
