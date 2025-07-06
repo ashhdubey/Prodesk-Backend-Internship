@@ -8,16 +8,12 @@
 - 📖 View contact list or single contact
 - 🛠️ Update contact information
 - ❌ Delete contacts
-- 📦 REST API-based architecture
 
 ## 🛠️ Tech Stack
 
-- Java 17+
-- Spring Boot
-- REST APIs
-- Maven / Gradle
-- Database: MySQL / H2 (optional)
-
+- React
+- Express.js
+- MongoDB
 ---
 
 > 🧑‍💻 Developed by Ashish
